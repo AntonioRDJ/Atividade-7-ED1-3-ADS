@@ -1,7 +1,6 @@
 #include <iostream>
 #include <locale.h>
 using namespace std;
-#define MAX 99999999
 
 struct No {
 	float dado;
